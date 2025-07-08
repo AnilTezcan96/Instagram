@@ -1,3 +1,2 @@
-username = "tezcananilcan"
-password = "anilcan96"
-#sifre = "?*&NilMel86&*?"
+username = "INSTA KULLANICI ADINIZI GİRİNİZ"
+password = "INSTA ŞİFRENİZİ GİRİNİZ"
